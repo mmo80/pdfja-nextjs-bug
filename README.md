@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## pdfjs-dist ^4.0.379 (pdf.js), Next.js 14.1.4 repository for testing converting pdf to text.
+
+Server Action throws error but using fetch against a route api works.
+
+#### This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
